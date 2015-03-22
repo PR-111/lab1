@@ -1,2 +1,0 @@
-C:\Users\jak\document\GitHub\laba1\laba1_1\laba1_1\bin\Debug\laba1_1.exe.config
-C:\Users\Ruslan\Dropbox\Collage\lab1-master\laba1_1\laba1_1\bin\Debug\laba1_1.exe.config

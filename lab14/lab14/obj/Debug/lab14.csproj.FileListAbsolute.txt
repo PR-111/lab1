@@ -1,0 +1,13 @@
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.Form1.resources
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.Cache
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.pdb
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.csprojResolveAssemblyReference.cache
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.Form2.resources
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.Form3.resources
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.Form4.resources
+C:\Users\jak\document\GitHub\laba1\lab14\lab14\obj\Debug\lab14.Form5.resources
